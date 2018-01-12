@@ -1,0 +1,2 @@
+## [1.0.0] - 12.01.2018
+- First release: Implement ApplicationExitHelper which provides convenience methods that handle application exit requests, for example in long running processes 
