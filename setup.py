@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-import irgendsontyp.helper
+import irgendsontyp.helpers
 
 setup(name = "irgendsontyp-helpers",
       version = irgendsontyp.helpers.__version__,
