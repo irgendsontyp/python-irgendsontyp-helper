@@ -1,3 +1,7 @@
+## [1.0.2] - 15.01.2018
+- Rename package "helper" to "helpers"
+
+
 ## [1.0.1] - 12.01.2018
 - Move version number from irgendsontyp/__init__.py to irgendsontyp/helper/__init__.py
 
