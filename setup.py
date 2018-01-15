@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import irgendsontyp.helper
 
 setup(name = "irgendsontyp-helpers",
-      version = irgendsontyp.helper.__version__,
+      version = irgendsontyp.helpers.__version__,
       description = "Sweet helper utilities of all kinds.",
       author = "irgendsontyp",
       url = "https://github.com/irgendsontyp/python-irgendsontyp-helpers.git",
