@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
-import irgendsontyp.helpers
+import irgendsontyphelpers
 
 setup(name = "irgendsontyp-helpers",
-      version = irgendsontyp.helpers.__version__,
+      version = irgendsontyphelpers.__version__,
       description = "Sweet helper utilities of all kinds.",
       author = "irgendsontyp",
       url = "https://github.com/irgendsontyp/python-irgendsontyp-helpers.git",
